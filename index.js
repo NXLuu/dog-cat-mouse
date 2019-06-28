@@ -7,5 +7,3 @@ console.log(cat);
 dog.sayHi();
 cat.die();
 dog.eat(cat);
-
-console.log(dog);
