@@ -1,4 +1,5 @@
 var chalk = require('chalk');
+// add a comment
 function Dog(name) {
 	this.stomach = [];
 	this.name = name;
